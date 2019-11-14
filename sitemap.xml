@@ -2,32 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://github.com/fifin-44/datamining/</loc>
-     <lastmod>2019-11-07</lastmod>
+     <lastmod>2019-11-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://github.com/fifin-44/datamining/statistik/</loc>
-     <lastmod>2019-11-07</lastmod>
+     <lastmod>2019-11-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://github.com/fifin-44/datamining/MengukurJarak/</loc>
-     <lastmod>2019-11-07</lastmod>
+     <lastmod>2019-11-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://github.com/fifin-44/datamining/Missing Values/</loc>
-     <lastmod>2019-11-07</lastmod>
+     <lastmod>2019-11-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://github.com/fifin-44/datamining/DECISION TREE/</loc>
-     <lastmod>2019-11-07</lastmod>
+     <lastmod>2019-11-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://github.com/fifin-44/datamining/Tugas 5 - Clustering/</loc>
-     <lastmod>2019-11-07</lastmod>
+     <lastmod>2019-11-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://github.com/fifin-44/datamining/fuzzy clustering/</loc>
+     <lastmod>2019-11-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
